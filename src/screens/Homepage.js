@@ -17,7 +17,10 @@ export default class Homepage extends React.Component {
                 <View style={{ backgroundColor: '#5098F2', height: '35%', borderStartWidth: 1, borderTopRightRadius: 25, borderTopLeftRadius: 25, }}>
                     <View style={styles.container
 
-                    }>
+           
+           
+           
+           }>
                         <View style={{
                             flexDirection: 'row', justifyContent: 'space-between',
                             alignItems: 'center',
