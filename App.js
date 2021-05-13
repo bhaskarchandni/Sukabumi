@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { View, Text,StyleSheet } from 'react-native';
 import Homepage from './src/screens/Homepage';
-
+import Ticket from './src/screens/Ticket';
 
 class App extends React.Component {
 
@@ -10,7 +10,7 @@ class App extends React.Component {
       <View style={{ backgroundColor: 'white', flex: 1 }}>
        
        
-<Homepage/>       
+<Ticket/>       
        
       </View>
     );

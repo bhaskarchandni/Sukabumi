@@ -84,14 +84,12 @@ export default class Homepage extends React.Component {
                                 <View style={{ flexDirection: 'row' }}>
                                     <View style={styles.style_view1}></View>
                                     <View style={styles.style_view2}>
-
-                                        <Text style={styles.text2}>Air Balloon</Text>
+                                         <Text style={styles.text2}>Air Balloon</Text>
                                         <Text style={styles.text2}>Amazin festival 2021</Text>
                                         <Text style={styles.text3}>By cimanggis</Text>
                                         <Text>17 jan 2022 /4:00 AM</Text>
                                     </View>
-
-                                </View>
+                                    </View>
                             </View>
                             <Text style={{ marginHorizontal: 20, fontWeight: 'bold', fontSize: 15, }}>Nearby</Text>
                             <View style={styles.container3}>
