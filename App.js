@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { View, Text,StyleSheet } from 'react-native';
 import Homepage from './src/screens/Homepage';
-import Circle from './src/screens/Homepage';
 
 
 class App extends React.Component {
